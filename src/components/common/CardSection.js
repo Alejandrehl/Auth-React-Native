@@ -3,7 +3,6 @@ import {
   Text,
   View
 } from 'react-native';
-import axios from 'axios';
 
 export default class CardSection extends Component<{}> {
 
